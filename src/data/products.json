@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone Galaxy X20",
+      "category": "Smartphones",
+      "price": 799.99,
+      "stock": 50,
+      "description": "Pantalla AMOLED, cámara de 64MP, batería de 5000mAh.",
+      "image": "https://example.com/images/galaxy-x20.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop UltraBook Pro",
+      "category": "Laptops",
+      "price": 1299.99,
+      "stock": 20,
+      "description": "Procesador Intel i7, 16GB RAM, 512GB SSD.",
+      "image": "https://example.com/images/ultrabook-pro.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Auriculares Bluetooth SoundPro",
+      "category": "Audio",
+      "price": 199.99,
+      "stock": 100,
+      "description": "Cancelación de ruido activa, batería de 30 horas.",
+      "image": "https://example.com/images/soundpro-headphones.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cámara Digital ProCam",
+      "category": "Cámaras",
+      "price": 499.99,
+      "stock": 15,
+      "description": "Sensor de 24MP, grabación 4K, lente intercambiable.",
+      "image": "https://example.com/images/procam-camera.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch FitTime",
+      "category": "Wearables",
+      "price": 149.99,
+      "stock": 75,
+      "description": "Monitor de frecuencia cardíaca, GPS, resistente al agua.",
+      "image": "https://example.com/images/fittime-smartwatch.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tablet MediaTab 10",
+      "category": "Tablets",
+      "price": 399.99,
+      "stock": 30,
+      "description": "Pantalla de 10 pulgadas, 64GB de almacenamiento, Android 12.",
+      "image": "https://example.com/images/mediatab-10.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Teclado Mecánico GamerKey",
+      "category": "Accesorios",
+      "price": 89.99,
+      "stock": 200,
+      "description": "Teclas RGB personalizables, switches mecánicos.",
+      "image": "https://example.com/images/gamerkey-keyboard.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Monitor UltraWide 4K",
+      "category": "Monitores",
+      "price": 699.99,
+      "stock": 10,
+      "description": "Resolución 4K, 34 pulgadas, tasa de refresco 144Hz.",
+      "image": "https://example.com/images/ultrawide-monitor.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Drone SkyExplorer",
+      "category": "Drones",
+      "price": 599.99,
+      "stock": 25,
+      "description": "Cámara 4K, tiempo de vuelo de 25 minutos, GPS incorporado.",
+      "image": "https://example.com/images/skyexplorer-drone.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Consola de Videojuegos NextGen",
+      "category": "Gaming",
+      "price": 499.99,
+      "stock": 40,
+      "description": "Procesador gráfico 4K, almacenamiento de 1TB, mando inalámbrico.",
+      "image": "https://example.com/images/nextgen-console.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Router WiFi MaxSpeed",
+      "category": "Redes",
+      "price": 129.99,
+      "stock": 60,
+      "description": "Velocidad de hasta 1.2Gbps, doble banda, cobertura ampliada.",
+      "image": "https://example.com/images/maxspeed-router.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Disco Duro Externo 2TB",
+      "category": "Almacenamiento",
+      "price": 99.99,
+      "stock": 80,
+      "description": "USB 3.0, resistente a impactos, portátil.",
+      "image": "https://example.com/images/2tb-hdd.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Smart TV 55 pulgadas 4K",
+      "category": "Televisores",
+      "price": 899.99,
+      "stock": 12,
+      "description": "HDR10+, aplicaciones integradas, sonido envolvente.",
+      "image": "https://example.com/images/55inch-smart-tv.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Altavoz Inteligente HomeSound",
+      "category": "Audio",
+      "price": 149.99,
+      "stock": 90,
+      "description": "Control por voz, compatibilidad con asistentes inteligentes.",
+      "image": "https://example.com/images/homesound-speaker.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Cargador Inalámbrico FastCharge",
+      "category": "Accesorios",
+      "price": 39.99,
+      "stock": 150,
+      "description": "Carga rápida, compatible con múltiples dispositivos.",
+      "image": "https://example.com/images/fastcharge-charger.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Cable HDMI 4K UltraHD",
+      "category": "Cables",
+      "price": 19.99,
+      "stock": 300,
+      "description": "Compatible con 4K, longitud de 2 metros.",
+      "image": "https://example.com/images/ultrahd-hdmi.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Mouse Gamer ProClick",
+      "category": "Accesorios",
+      "price": 49.99,
+      "stock": 120,
+      "description": "Diseño ergonómico, DPI ajustable, RGB.",
+      "image": "https://example.com/images/proclick-mouse.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Impresora Multifunción PrintSmart",
+      "category": "Impresoras",
+      "price": 199.99,
+      "stock": 35,
+      "description": "Impresión, escaneo y copias, conexión WiFi.",
+      "image": "https://example.com/images/printsmart-printer.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Ventilador USB CoolBreeze",
+      "category": "Accesorios",
+      "price": 24.99,
+      "stock": 200,
+      "description": "Compacto, silencioso, conexión USB.",
+      "image": "https://example.com/images/coolbreeze-fan.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Power Bank 10,000mAh",
+      "category": "Accesorios",
+      "price": 49.99,
+      "stock": 100,
+      "description": "Carga rápida, diseño compacto, 2 puertos USB.",
+      "image": "https://example.com/images/powerbank-10000.jpg"
+    }
+  ]
+}
